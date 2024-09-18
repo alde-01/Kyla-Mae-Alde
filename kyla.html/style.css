@@ -1,0 +1,143 @@
+#header{
+    background-image: url(images/bckgrnd.jpg);
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1493px;
+    margin: 10px;
+    padding: 0%;
+    height: 310px;
+}
+#body{
+   background-image: url(images/bckgrnd1.jpg);
+   background-repeat: no-repeat;
+   background-attachment: fixed; 
+   margin: 0%;
+   padding: 0%;
+   width: 100%;
+
+}
+#logo{
+    position: absolute;
+    height: 300px;
+    padding-left: 250px;
+    margin-left: 200px;
+    padding-top: 0px;
+    margin-top: 0px;
+    position: absolute;
+}
+#trio1{
+    position: absolute;
+    opacity: 20px;
+    padding-top: 320px;
+    padding-left: 880px;
+    padding-right: 230px;
+    height: 45%;
+}
+#trio2{
+    position: absolute;
+    opacity: 20px;
+    padding-top: 630px;
+    padding-left: 220px;
+    height: 55%;
+}
+#trio3{
+    position: absolute;
+    opacity: 20px;
+    padding-top: 1000px;
+    padding-left: 820px;
+    height: 60%;
+}
+#blossom{
+    width: 300px;
+    margin-top: 280px;
+    padding-left: 200px;
+    position: absolute;
+}
+#text1{
+    color: rgb(254, 0, 72) ; 
+    font-weight: bold; 
+    font-size: 60px;
+    position: absolute; 
+    margin-top: 410px;
+    margin-left: 520px;
+}
+#container1{
+    color: rgb(254, 0, 72) ;
+    background-color: rgb(250, 155, 185);
+    border-radius: 50px;
+    font-weight: bold; 
+    font-size: 25px; 
+    text-align: center;
+    text-shadow: black 2px 1px;
+    position: absolute; 
+    margin-top: 475px;
+    margin-left: 510px;
+    margin-right: 650px;
+}
+#bubbles{
+    width: 300px;
+    padding-top: 620px;
+    padding-left: 920px;
+    padding-right: 150px;
+    position: absolute;
+}
+#text2{
+    color: rgb(2, 110, 252) ; 
+    font-weight: bold; 
+    font-size: 60px;
+    position: absolute; 
+    margin-top: 760px;
+    margin-left: 580px;
+}
+#container2{
+    color: rgb(2, 110, 252)  ; 
+    background-color: rgb(135, 204, 234); 
+    border-radius: 50px;
+    text-align: center;
+    text-shadow: black 2px 1px;
+    font-weight: bold; 
+    font-size: 25px; 
+    position: absolute; 
+    margin-top: 825px;
+    margin-left: 580px;
+    margin-right: 600px;
+}
+#buttercup{
+    width: 300px;
+    margin-top: 1020px;
+    padding-left: 200px;
+    position: absolute;
+}
+#text3{ 
+    color: rgb(26, 240, 30, 0.916) ; 
+    font-weight: bold; 
+    font-size: 60px;
+    position: absolute; 
+    margin-top: 1120px;
+    margin-left: 500px;
+}
+#container3{
+    color: rgba(26, 240, 30, 0.916); 
+    font-weight: bold; 
+    font-size: 25px;  
+    padding: 0%;
+    text-align: center;
+    text-shadow: black 2px 1px;
+    margin: 1185px 700px 150px 510px;
+    background-color: rgb(156, 246, 180);
+    opacity: 10px;
+    border-radius: 50px;
+    position: absolute; 
+}
+#footer{
+    color:black;
+    position: absolute;
+    font-size: 15px;
+    margin-top: 1410px;
+    margin-left: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
